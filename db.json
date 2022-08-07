@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "ProductName": "Apple",
+      "category": "Laptop",
+      "UesdTime": "Brand New",
+      "Price": 1250,
+      "date": "2022-07-06T18:30:00.000Z",
+      "comment": "new one",
+      "id": 1
+    },
+    {
+      "ProductName": "LG Monitor",
+      "category": "Desktop",
+      "UesdTime": "Second hand",
+      "Price": 5000,
+      "date": "2022-07-07T18:30:00.000Z",
+      "comment": "Good Condition",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
